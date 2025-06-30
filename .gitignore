@@ -1,0 +1,44 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+
+# Environment variables
+.env
+
+# Build outputs
+dist/
+build/
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# IDE and Editor folders
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Coverage and testing
+coverage/
+
+# MongoDB dump files
+dump/
+
+# Parcel, Vite, Webpack cache
+.cache/
+.parcel-cache/
+
+# Local npm logs
+.npm/
+
+# Optional: Ignore uploads or temp files
+uploads/
+tmp/
